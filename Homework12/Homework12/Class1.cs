@@ -8,5 +8,6 @@ namespace Homework12
 {
     public class Class1
     {
+        // test
     }
 }
